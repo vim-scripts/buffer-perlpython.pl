@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1096
+
+Bindings to check or run perl/python and display the results in a new window.
+
+When scripting:
+
+F1: perl -cw or pychecker over the current buffer, results in a new window
+F2: close the current window
+F3: perl/python (actually run the script) the buffer, output in a new window
